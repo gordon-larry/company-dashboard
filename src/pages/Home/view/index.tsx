@@ -159,13 +159,13 @@ export const HomeView: React.FC = () => {
       </CareerSection>
       <FooterWrapper>
         <TitleWrapper>
-          <IntroTitle>GC-Vote</IntroTitle>
+          <IntroTitle>GP-Vote</IntroTitle>
           <LinkTitle>Additional Links</LinkTitle>
           <FootTitle>Contact Info</FootTitle>
         </TitleWrapper>
         <ContentWrapper>
           <IntroSubtitle>
-            The Global Collective Vote (GCVote) is an annual event that reward
+            The Global Perspective Vote (GPVote) is an annual event that reward
             and recognise educational excellence at Ghana's second cycle
             institutions.
           </IntroSubtitle>
@@ -179,11 +179,11 @@ export const HomeView: React.FC = () => {
           <ContactGroup>
             <ContactList>
               <MdEmail />
-              <ContactLabel>nahisa@gmail.com</ContactLabel>
+              <ContactLabel>gordon@everyvote.xyz</ContactLabel>
             </ContactList>
             <ContactList>
               <FaPhoneVolume />
-              <ContactLabel>+1 727 378 2610</ContactLabel>
+              <ContactLabel>+1 339 309 3123</ContactLabel>
             </ContactList>
           </ContactGroup>
         </ContentWrapper>
