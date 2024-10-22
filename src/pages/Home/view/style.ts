@@ -110,6 +110,13 @@ export const AboutSubtitle = styled.div`
   max-width: 520px;
 `;
 
+export const AboutSubtitleBold = styled.span`
+  color: var(--primary-3);
+  font-size: 48px;
+  font-weight: 800;
+  max-width: 520px;
+`;
+
 export const AboutDescription = styled.p`
   color: #333;
   font-size: 20px;

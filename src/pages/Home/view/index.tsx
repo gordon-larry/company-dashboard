@@ -8,6 +8,7 @@ import {
   AboutLearnButton,
   AboutSection,
   AboutSubtitle,
+  AboutSubtitleBold,
   AboutTitle,
   CareerButton,
   CareerSection,
@@ -82,15 +83,23 @@ export const HomeView: React.FC = () => {
           <AbouTitleGroup>
             <AboutTitle>About Us</AboutTitle>
             <AboutSubtitle>
-              Register your School NAHISA Competitions
+              <AboutSubtitleBold>A</AboutSubtitleBold>ny Title!
+              <br />
+              <AboutSubtitleBold>A</AboutSubtitleBold>ny Suggestion!
+              <br />
+              <AboutSubtitleBold>A</AboutSubtitleBold>nyone!
             </AboutSubtitle>
           </AbouTitleGroup>
           <AboutDescription>
-            The National High School Awards (NAHISA) is an annual event that
-            reward and recognise stakeholders who contribute significantly to
-            educational excellence at Ghana's second cycle institutions.It's a
-            reward scheme to motivate awardees as well as future prospective
-            awardees to continue impacting Ghana's second cycle education.
+            GP Vote is a revolutionary decentralized voting platform that
+            empowers individuals to make collective decisions on various topics.
+            Our mission is to democratize decision-making processes by allowing
+            anyone to propose titles, answers, or suggestions for global
+            consideration. By leveraging blockchain technology, we create a
+            transparent and tamper-proof system where the majority opinion
+            prevails. Our goal is to foster global perspective and encourage
+            participation from all corners of society, ultimately shaping a more
+            inclusive and representative future for humanity.
           </AboutDescription>
           <AboutLearnButton>Learn More</AboutLearnButton>
         </AboutContent>
@@ -165,9 +174,10 @@ export const HomeView: React.FC = () => {
         </TitleWrapper>
         <ContentWrapper>
           <IntroSubtitle>
-            The Global Perspective Vote (GPVote) is an annual event that reward
-            and recognise educational excellence at Ghana's second cycle
-            institutions.
+            GP Vote is a decentralized online voting platform built on
+            blockchain technology that aims to redefine the essence of voting
+            itself by offering a secure, transparent, and tamper-proof voting
+            system.
           </IntroSubtitle>
           <LinkGroup>
             <LinkList href={`#${PATH.LANDING}`}>Home</LinkList>
