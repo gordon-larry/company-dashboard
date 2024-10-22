@@ -14,7 +14,7 @@ export const HeaderView: React.FC = () => {
     <HeaderWrapper>
       <LogoWrapper>
         <Logo src={LogoImg} />
-        <LogoLabel>C-Vote</LogoLabel>
+        <LogoLabel>P-Vote</LogoLabel>
       </LogoWrapper>
       <MenuGroups>
         <MenuButton to={`${PATH.HOME}`} $selected={false}>
