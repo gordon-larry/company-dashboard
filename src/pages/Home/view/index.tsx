@@ -133,8 +133,8 @@ export const HomeView: React.FC = () => {
           <ContactDescription>
             Call us for immediate support to this number
           </ContactDescription>
-          <ContactNumber>+1 727 378 2610</ContactNumber>
-          <ContactEmail>support@nahisa.com</ContactEmail>
+          <ContactNumber>+1 339 309 3123</ContactNumber>
+          <ContactEmail>gordon@everyvote.xyz</ContactEmail>
         </ContactContent>
         <ContactForm>
           <FormGroup>
