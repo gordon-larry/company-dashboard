@@ -189,7 +189,7 @@ export const HomeView: React.FC = () => {
           <ContactGroup>
             <ContactList>
               <MdEmail />
-              <ContactLabel>gordon@everyvote.xyz</ContactLabel>
+              <ContactLabel>takeshikask@proton.me</ContactLabel>
             </ContactList>
             <ContactList>
               <FaPhoneVolume />
