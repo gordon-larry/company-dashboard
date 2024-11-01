@@ -5,7 +5,7 @@ export const CareerView: React.FC = () => {
     <CareerWrapper>
       <CareerList>
         <CareerItem
-          to={"https://wellfound.com/jobs/3132718-web3-frontend-developer"}
+          to={"https://apply.workable.com/everyvote/j/CE0D54B067/"}
         >
           Web3 Frontend Engineer(f/m/d)
         </CareerItem>
