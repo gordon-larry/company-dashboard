@@ -143,7 +143,7 @@ export const HomeView: React.FC = () => {
             Call us for immediate support to this number
           </ContactDescription>
           <ContactNumber>+1 339 309 3123</ContactNumber>
-          <ContactEmail>gordon@everyvote.xyz</ContactEmail>
+          <ContactEmail>takeshikask@proton.me</ContactEmail>
         </ContactContent>
         <ContactForm>
           <FormGroup>
